@@ -1,4 +1,4 @@
-## Discover Film - A VueJS app helping users find films to watch (2020)
+## Discover Film - A VueJS app to discover films and decide what to watch (2020)
 ### Project Context
 With there being so much choice of films to watch, many people struggle to decide upon a particular film to watch, endlessly scrolling through Netflix getting frustrated!
 
