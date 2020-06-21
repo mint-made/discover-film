@@ -1,2 +1,2 @@
-## Discover Film - Helping users discover and decide on a film to watch
+## Discover Film - A VueJS app helping users to find a film to watch (2020)
 
