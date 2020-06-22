@@ -10,4 +10,4 @@ This project aims to help users to efficiently discover films they are intereste
 - VueJS / Vuex / Vue Router
 
 ### Attribution
-![TMDb](https://www.themoviedb.org/assets/2/v4/logos/v2/blue_long_1-8ba2ac31f354005783fab473602c34c3f4fd207150182061e425d366e4f34596.svg)
+[TMDb API](https://www.themoviedb.org/ "TMDb - Official Site")
