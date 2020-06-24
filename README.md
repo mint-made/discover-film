@@ -8,6 +8,7 @@ This project aims to help users to efficiently discover films they are intereste
 ### Technologies Utilized
 - HTML / CSS / SCSS
 - VueJS / Vuex / Vue Router
+- TMDb API
 
 ### Attribution
 [TMDb API](https://www.themoviedb.org/ "TMDb - Official Site")
